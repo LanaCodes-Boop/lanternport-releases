@@ -3,9 +3,11 @@
 A cozy first-person repair-shop game. You run a small repair shop in Lanternport, a harbour town on the
 moon Sabal, and fix what people bring to your counter.
 
-**This is an early test build (Milestone 1).** It contains Day 1 at the counter: play Nana's tape, then fix
-Bea's toaster — inspect it, foam and rinse the rust, unscrew the back, rewire it, screw it shut, test it —
-and choose what to charge her. There is a main menu, settings, and three save slots. Much more is coming.
+**This is an early test build (Milestone 2).** Every day townspeople bring broken gadgets to your hatch.
+There are nine kinds of items and twelve hands-on repair jobs: foam and rinse, screws, diagnosing, board
+swaps, soldering, wiring, glass, calibration, oil and polish, firmware, safe dials and batteries. In the
+evening you buy upgrades and build onto the shop, and in the afternoon you can walk around Harbour
+Square. The story beyond the first day is still to come.
 
 You install it with the **Lanternport Launcher**. The launcher downloads the game and keeps it up to date
 by itself: every time you open it, it checks for a new version and only downloads the parts that changed.
